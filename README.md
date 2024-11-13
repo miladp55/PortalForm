@@ -1,3 +1,3 @@
 # PortalForm
 
-Make froms with Umbraco and share for people for use.
+Make forms with Umbraco and share with people.
